@@ -1,6 +1,7 @@
 # Food Delivery Service - Project Description
 
 Our project is a food delivery system that allows users to order food from their favorite restaurants and have it delivered to their doorstep. The system includes functionalities such as user authentication, restaurant search and selection, menu browsing and item selection, order placement and payment, order tracking and delivery status, user ratings and reviews, restaurant management interface, and delivery management interface.
+
 This food delivery system is designed to provide a convenient and efficient way for users to order food and for restaurants to manage their orders and delivery settings. Our goal is to deliver a user-friendly and reliable system that meets the needs of both customers and restaurant owners/managers.
 
 1) Menu and ordering system: The app should display menus for different restaurants and allow customers to browse through different dishes and place orders easily.
