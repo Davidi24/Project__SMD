@@ -1,2 +1,0 @@
-# Project__SMD
-Project
