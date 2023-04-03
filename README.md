@@ -4,7 +4,7 @@ Our project is a food delivery system that allows users to order food from their
 
 This food delivery system is designed to provide a convenient and efficient way for users to order food and for restaurants to manage their orders and delivery settings. Our goal is to deliver a user-friendly and reliable system that meets the needs of both customers and restaurant owners/managers.
 
-## Different user levels
+## Different User Levels
 a) Customer authentication: This level of authentication is used to identify and verify the identity of the customer who is placing the order. Customers may be required to provide their name, email address, phone number, and/or other personal information to create an account with the food delivery service.
 
 b) Restaurant authentication: This level of authentication is used to identify and verify the identity of the restaurant that is fulfilling the order. Restaurants may be required to provide their business name, address, phone number, and/or other information to create an account with the food delivery service.
@@ -13,7 +13,7 @@ c) Delivery person authentication: This level of authentication is used to ident
 
 d) Administrator authentication: This level of authentication is used to identify and verify the identity of the administrator who is responsible for managing the food delivery service. Administrators may have access to sensitive information such as customer data, restaurant data, and delivery person data, as well as the ability to perform actions such as creating and modifying user accounts, managing orders and payments, and generating reports. As a result, administrator accounts may require additional security measures such as two-factor authentication or biometric authentication to ensure that only authorized individuals have access to the system.
 
-## System functionalities 
+## System Functionalities 
 1) Menu and ordering system: The app should display menus for different restaurants and allow customers to browse through different dishes and place orders easily.
 2) Real-time tracking: The app should provide real-time tracking of the order status and delivery personnel, so customers can know when their food will be delivered.
 3) Transport menu: the app should allow the user to choose their transport: by walk, motor-bike, car by increasing or decreasing the price.
