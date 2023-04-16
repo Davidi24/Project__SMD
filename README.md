@@ -37,5 +37,12 @@ d) Administrator authentication: This level of authentication is used to identif
 21) Reservation:The app should allow the user to reserve a table at any date or hour depending on the restaurant.
 22) Searching filters:The app should allow the user to search depending on prices, most visited restaurants, best rated restaurants, etc.
 23) Group orders: Numerous users will be able to order meals from their personal devices and then unite their orders into a single one. An automatic split bill function for group orders will also save users’ time.
+24) Lucky Bill: The app shoud allow the user to apply for the lucky bill once a year, so the user can win the big price.
+25) Integration with smart devices: The app should allow customers to order food using smart devices such as Alexa, Google Home, or Apple Watch.
+26) Restaurant management: The app should provide restaurant owners with a dashboard to manage their menus, prices, availability, and order history.
+27) In-app chatbot: The app should provide an in-app chatbot to answer frequently asked questions and help users place orders more easily.
+28) Driver earnings and performance tracking: The app should provide a dashboard for delivery personnel to track their earnings and performance, including metrics such as on-time deliveries and customer ratings.
+29) Customized packaging and labeling: The app should allow customers to request customized packaging and labeling for their orders, such as adding a personal message or instructions for the delivery personnel.
+30) Automatic order assignment: The app should have an automated system for assigning orders to delivery personnel based on their location, availability, and workload, ensuring efficient and timely deliveries.
 
 
